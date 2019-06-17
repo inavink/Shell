@@ -1,0 +1,6 @@
+date;
+who;
+pwd;
+whoami;
+ls -l;
+ps

@@ -1,0 +1,54 @@
+total 196
+-rw-r--r--. 1 root root  94 Jun  4 17:28 add1.sh
+-rw-r--r--. 1 root root 117 Jun  4 17:00 add.sh
+-rwxr-xr-x. 1 root root 119 Jun 15 16:30 arnav
+-rw-r--r--. 1 root root 296 Jun  1 15:15 array.sh
+-rw-r--r--. 1 root root  64 Jun 15 16:06 basename.sh
+-rw-r--r--. 1 root root 178 Jun  1 15:00 command-argument.sh
+-rw-r--r--. 1 root root 213 Jun 15 17:35 command-line-opt.sh
+-rw-r--r--. 1 root root 191 Jun 15 11:55 comm-arg2.sh
+-rw-r--r--. 1 root root 180 Jun 15 11:58 comm-arg3.sh
+-rw-r--r--. 1 root root  98 Jun 15 16:26 comm-arg-if.sh
+-rw-r--r--. 1 root root 193 Jun 11 10:51 comm-arg.sh
+-rw-r--r--. 1 root root  96 Jun 15 16:48 comm-param-test.sh
+-rw-r--r--. 1 root root 110 Jun 15 16:41 count-param-if.sh
+-rw-r--r--. 1 root root  55 Jun 15 16:36 count-param-var.sh
+-rw-r--r--. 1 root root 145 Jun  5 15:54 for1.sh
+-rw-r--r--. 1 root root  78 Jun  5 15:44 for2.sh
+-rw-r--r--. 1 root root 126 Jun  5 16:10 for3.sh
+-rw-r--r--. 1 root root  56 Jun  5 16:53 for-c.sh
+-rw-r--r--. 1 root root 109 Jun  5 15:32 for.sh
+-rw-r--r--. 1 root root  78 Jun  5 17:54 for-var.sh
+-rw-r--r--. 1 root root  34 Jun  4 16:53 hello.txt
+-rw-r--r--. 1 root root 417 Jun  5 11:59 if-file.sh
+-rw-r--r--. 1 root root 122 Jun  4 17:34 if.sh
+-rw-r--r--. 1 root root 282 Jun  4 18:13 if-useradd.sh
+-rw-r--r--. 1 root root 177 Jun  4 17:39 if-user.sh
+-rw-r--r--. 1 root root 288 Jun  2 11:50 math.sh
+-rw-r--r--. 1 root root  42 Jun  5 15:49 name.txt
+-rwxr-xr-x. 1 root root 119 Jun 15 16:29 navin
+-rw-r--r--. 1 root root 107 Jun 15 12:03 read1.sh
+-rw-r--r--. 1 root root  46 Jun 15 15:59 read-args.sh
+-rw-r--r--. 1 root root  82 Jun 15 18:07 read-hide.sh
+-rw-r--r--. 1 root root 120 Jun 15 17:52 read-if.sh
+-rw-r--r--. 1 root root 207 Jun 15 18:04 read-one.sh
+-rw-r--r--. 1 root root 101 Jun 15 17:43 read-p-name.sh
+-rw-r--r--. 1 root root 133 Jun 15 17:39 read-p.sh
+-rw-r--r--. 1 root root  68 Jun 15 17:46 read-reply.sh
+-rw-r--r--. 1 root root  52 Jun  1 14:47 read.sh
+-rw-r--r--. 1 root root 645 Jun  2 18:57 relational.sh
+-rw-r--r--. 1 root root 124 Jun 15 18:15 sample.txt
+-rw-r--r--. 1 root root 225 Jun 15 17:05 special-param.sh
+-rw-r--r--. 1 root root  84 Jun  5 16:09 states.txt
+-rw-r--r--. 1 root root 115 Jun  5 10:41 test1.sh
+-rw-r--r--. 1 root root 134 Jun  5 10:43 test2.sh
+-rw-r--r--. 1 root root 227 Jun  5 11:39 test3.sh
+-rw-r--r--. 1 root root 111 Jun 15 16:33 test-param.sh
+-rw-r--r--. 1 root root  99 Jun  5 10:35 test.sh
+-rw-r--r--. 1 root root   0 Jun 15 18:16 test.txt
+-rw-r--r--. 1 root root 106 Jun  4 16:51 variable.sh
+-rw-r--r--. 1 root root  59 Jun  6 15:34 while.sh
+-rwxr-xr-x. 1 root root  83 Jun 15 16:02 zero-param.sh
+root     tty1         2019-06-15 11:45
+root     pts/0        2019-06-15 11:50 (192.168.2.1)
+Sat Jun 15 18:17:09 IST 2019
